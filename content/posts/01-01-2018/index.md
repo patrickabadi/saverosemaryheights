@@ -1,6 +1,6 @@
 ---
 title: "Environmental Concerns"
-cover: "bsc.png"
+cover: "https://picsum.photos/400/300/?random?BigTest"
 date: "01/01/2018"
 category: "environment"
 tags:
