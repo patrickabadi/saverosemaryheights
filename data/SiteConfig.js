@@ -21,14 +21,14 @@ module.exports = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
-      label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
-      iconClassName: "fa fa-github"
+      label: "Join Us",
+      url: "https://mailchi.mp/18b87d6bba01/save-rosemary-heights",
+      iconClassName: "fa fa-envelope"
     },
     {
-      label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
-      iconClassName: "fa fa-twitter"
+      label: "Facebook",
+      url: "https://www.facebook.com/SaveRosemaryHeights/",
+      iconClassName: "fa fa-facebook"
     },
     {
       label: "Email",
@@ -36,5 +36,5 @@ module.exports = {
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2017. Material User" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2017-2018" // Copyright string for the footer of the website and RSS feed.
 };
