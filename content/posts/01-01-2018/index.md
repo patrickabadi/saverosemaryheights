@@ -87,10 +87,9 @@ However, perhaps its greatest success is its focus on retention of ecological fe
 
 ![Deer Crossing](deer.png "") 
 
-```
-Deer crossing signs remain on 154th Street on the eastern edge of the proposed development. Seen here in the shadow of the DP sign.
+>Deer crossing signs remain on 154th Street on the eastern edge of the proposed development. Seen here in the shadow of the DP sign.
 The lands are home to populations of deer, eagles, coyotes, owls and other fauna that are regularly spotted in the neighbourhood. Rabbits, mice and other rodents support the local raptor population. Flocks of small and large birds regularly transit the corridor.
-```
+
 
 Adopted in 1996, the Rosemary Heights Neighborhood Concept Plan described with remarkable certainty, how the Rosemary Heights Retreat Centre Lands should be used in light of their ecological sensitivity. Below are several quotes from the NCP referring to the use contemplated for these lands:
 * To maintain the existing Retreat Centre Institutional and allow for the development of a high school on lands which have not been identified as having environmental high sensitivity; and

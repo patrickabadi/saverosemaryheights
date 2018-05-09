@@ -51,6 +51,7 @@ export default class MainLayout extends React.Component {
           </Helmet>
           {children()}
         </div>
+        
       </Navigation>
     );
   }

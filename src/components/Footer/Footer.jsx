@@ -30,9 +30,9 @@ class Footer extends Component {
           </div>
           <div className="based-on">
             <h4>
-              Brought to you By{" "}
-              <a href="https://mailchi.mp/18b87d6bba01/save-rosemary-heights">
-                Rosemary Heights Community Association
+              Sign up to our {" "}
+              <a href="http://signup.saverosemaryheights.com">
+                SaveRosemaryHeights Newsletter
               </a>.
             </h4>
           </div>
