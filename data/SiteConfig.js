@@ -15,9 +15,9 @@ module.exports = {
   userName: "Rosemary Heights Community Association", // Username to display in the author segment.
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "South Surrey, BC", // User location to display in the author segment.
-  userAvatar: "IMG_6886.png", // User avatar to display in the author segment.
+  userAvatar: "/logos/IMG_6886.png", // User avatar to display in the author segment.
   userDescription:
-    "A group of concerned residents.", // User description to display in the author segment.
+    "The Rosemary Heights Community association has been formed in order to protect the character of the neighborhood, preserve the sensitive forest lands next to the river, and address the issues of traffic safety and overcrowded schools and amenities.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
