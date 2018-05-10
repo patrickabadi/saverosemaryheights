@@ -7,7 +7,7 @@ module.exports = {
   pathPrefix: "/srm", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Saving Rosemary Heights", // Website description used for RSS feeds/meta description tag.
-  siteRss: "", // Path to the RSS file.
+  siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
   siteGATrackingID: "", // Tracking code ID for google analytics.
   disqusShortname: "", // Disqus shortname.
