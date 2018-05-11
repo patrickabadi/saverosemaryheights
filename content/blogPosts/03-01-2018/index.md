@@ -21,10 +21,10 @@ In referring to the NCP page1.2.1 the important 7 principles, which are listed t
 
 Those that apply to the retreat areas are:
 
-* #3, to maximize the green space and retain the existing trees and natural environment;
-* #4, to ensure the road system complements the integrity of the community and discourages intrusions;
-* #5, to provide community facilities, schools and parks which are appropriate to serve all area residents; and
-* #6, to discourage family oriented housing west of 152nd Street.
+* to maximize the green space and retain the existing trees and natural environment;
+* to ensure the road system complements the integrity of the community and discourages intrusions;
+* to provide community facilities, schools and parks which are appropriate to serve all area residents; and
+* to discourage family oriented housing west of 152nd Street.
 
 The NCP as a result of the environmental assessment, classifies this zone as having high environmental sensitivity, (p. 2-46) with a recommendation that there be **No Development within the riparian zones**. There are very clear policies stating that only walking trails, with limited community amenities and some public utilities should be constructed in this area. This is why the committee was happy with the zoning at the time.
 
