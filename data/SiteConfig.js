@@ -1,10 +1,10 @@
 module.exports = {
-  blogPostDir: "posts", // The name of directory that contains your posts.
+  blogPostDir: "blogPosts", // The name of directory that contains your posts.
   siteTitle: "Save Rosemary Heights", // Site title.
   siteTitleAlt: "Rosemary Height Community Association", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "http://saverosemaryheights.com", // Domain of your website without pathPrefix.
-  pathPrefix: "/srm", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
+  pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Saving Rosemary Heights", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
