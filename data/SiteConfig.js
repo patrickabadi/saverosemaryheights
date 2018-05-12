@@ -5,7 +5,7 @@ module.exports = {
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "http://saverosemaryheights.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
+  fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "Saving Rosemary Heights", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
