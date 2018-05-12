@@ -9,7 +9,7 @@ module.exports = {
   siteDescription: "Saving Rosemary Heights", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "", // FB Application ID for using app insights
-  siteGATrackingID: "", // Tracking code ID for google analytics.
+  siteGATrackingID: "UA-119099118-1", // Tracking code ID for google analytics.
   disqusShortname: "", // Disqus shortname.
   postDefaultCategoryID: "Rosemary", // Default category for posts.
   userName: "Rosemary Heights Community Association", // Username to display in the author segment.
