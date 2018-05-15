@@ -30,7 +30,7 @@ The proposed school would have a capacity of 260 students and a large catchment 
 * **students would be driven or bussed in from other communities**, creating additional traffic and safety issues..
 * **very few neighbourhood families would** qualify to attend this school, so it does not provide any solution to the the current school overcrowding issue. 
 
-https://www.csf.bc.ca/csf-eng/admissions/  
+[https://www.csf.bc.ca/csf-eng/admissions/ ](https://www.csf.bc.ca/csf-eng/admissions/)  
 
 **Despite Porte's claims that they have included a school in response to community feedback, the community did NOT ask for a Francophone school that their children could not attend.**
 
@@ -54,14 +54,14 @@ Previous Proposal: 278 townhomes plus 23 single family homes = 301 units
 ## Environment
 
 The Community Association is concerned that further densification described above would almost certainly require substantial removal of the ecologically sensitive trees and forest on the property, according to Porte's own design plan included in their May 5 flyer.  The revised plan does not appear to incorporate feedback from the community's clear message to Porte that environmental protection of these lands is paramount. Full details of the environmental sensitivity of this unique riparian property--one of the last remaining riparian ecosystems in Surrey--are articulated in the Rosemary Heights Community Association's report to the mayor and council submitted on December 4, 2017 
-https://saverosemaryheights.netlify.com/environmental-concerns.  
+[https://saverosemaryheights.netlify.com/environmental-concerns](https://saverosemaryheights.netlify.com/environmental-concerns).  
 
 Porte's design plan does maintain the trees along the river.  In their marketing, Porte contends that the proposal "celebrates nature" and that the proposed pathways will “enhance neighbourhood connectivity”, however it is important to note that they do NOT have the option to build in the riparian zone due to City regulations.  Conversely, Porte did have the option to preserve the old growth trees in the proposed residential area, yet their plans still include substantial removal of the forested area.
 
 
 ## Traffic / Bussing
 
-Porte's revised proposal does nothing to alleviate the traffic and road safety issues raised in the Rosemary Heights Community Association's report to the council and mayor https://saverosemaryheights.netlify.com/traffic-concerns.  In fact, the proposal exacerbates the issues because the large majority of the 260 students attending the Francophone school will be bussed in, and would be **in addition** to the traffic created by the proposed 322 new homes.  A conservative estimate of 20 children per bus would yield 13 busses in and out of the area two times per day, with likely additional vehicles as some parents will drive their children.  This in combination with traffic from the new homes whose children do not attend the school.  The Community Association is concerned about the safety of children walking to and from Rosemary Heights Elementary at the same time.
+Porte's revised proposal does nothing to alleviate the traffic and road safety issues raised in the Rosemary Heights Community Association's report to the council and mayor [https://saverosemaryheights.netlify.com/traffic-concerns](https://saverosemaryheights.netlify.com/traffic-concerns).  In fact, the proposal exacerbates the issues because the large majority of the 260 students attending the Francophone school will be bussed in, and would be **in addition** to the traffic created by the proposed 322 new homes.  A conservative estimate of 20 children per bus would yield 13 busses in and out of the area two times per day, with likely additional vehicles as some parents will drive their children.  This in combination with traffic from the new homes whose children do not attend the school.  The Community Association is concerned about the safety of children walking to and from Rosemary Heights Elementary at the same time.
 
 ## Entrance to the Proposed Development
 
@@ -70,7 +70,7 @@ Porte has now been told by the City that the existing entrance and exit to the p
   
 ## Parking
 
-Parking was also identified as a significant area of concern by the community in the Rosemary Heights Community Association's report to the council and mayor  https://saverosemaryheights.netlify.com/traffic-concerns.  Already, 36th Avenue and side streets are fraught with parking issues, many of which stem from residents of the Edgewater complex on the north west corner of 152 Street and 36 Avenue who are dual vehicle families with only one parking spot assigned.  Porte's development proposal calls for 226 townhomes and 96 condominium units. Though they intend to meet the City of Surrey’s bylaw requirements for parking**, the Community Association is concerned that inevitably additional street parking will be required.  The NCP design of the Rosemary Heights community was not designed, with intention, to accommodate the excessive amount of street parking.
+Parking was also identified as a significant area of concern by the community in the Rosemary Heights Community Association's report to the council and mayor  [https://saverosemaryheights.netlify.com/traffic-concerns](https://saverosemaryheights.netlify.com/traffic-concerns).  Already, 36th Avenue and side streets are fraught with parking issues, many of which stem from residents of the Edgewater complex on the north west corner of 152 Street and 36 Avenue who are dual vehicle families with only one parking spot assigned.  Porte's development proposal calls for 226 townhomes and 96 condominium units. Though they intend to meet the City of Surrey’s bylaw requirements for parking**, the Community Association is concerned that inevitably additional street parking will be required.  The NCP design of the Rosemary Heights community was not designed, with intention, to accommodate the excessive amount of street parking.
 
 ** Two garage parking spaces per townhouse plus a visitor space for every five homes / 1.3 or 1.5 parking spaces per condominium unit plus a visitor space for every 5 apartments (ie 1.3 for one bedroom)
 
@@ -82,6 +82,6 @@ mayor@surrey.ca; TSGill@Surrey.ca; Vera.LeFranc@surrey.ca; BruceHayne@Surrey.ca;
 
 Talk to your neighbours - if they’re not currently on the Rosemary Heights Community Association’s mailing list, please share this important information with them.  Also, please encourage them to join the mailing list here:
 
-http://signup.saverosemaryheights.com/
+[http://signup.saverosemaryheights.com/](http://signup.saverosemaryheights.com/)
 
 The Rosemary Heights Community Association will keep the community informed as we become aware of new developments, including notification of Porte’s application to the City for re-zoning (no estimated date at this time) and ensuing council meetings.  Once we have entered this stage, community support will be extremely important to effect the refusal of this application.  Our voices matter and they WILL be the difference between refusal and approval.
