@@ -15,14 +15,19 @@ A little while ago we asked our community to write in to the city and the develo
 We wanted to share with you some of those emails:
 
 >_"Porte has not taken into account the feedback from the community, and instead has proposed this trojan horse by adding a school that is all but private to a small sub-portion of the land, and simultaneously increasing the density of the proposal."_
- [Read More](./letter-001.pdf)
+  [Read More](./letter-001.pdf)
 
- >_"The addition of increased density is insulting to the residents of the neighbourhood, as we have always given feedback to this developer that its previous proposals had too much density for this neighbourhood."_[Read More](./letter-004.pdf)
+ >_"I am in contact of the immigrants families (majority speaks Chinese) in the neighbourhood and even though they are slower in response to the developer proposals, the consensus is they will be strongly opposing the development comes to public hearing."_ [Read More](./letter-003.pdf)
+
+ >_"The addition of increased density is insulting to the residents of the neighbourhood, as we have always given feedback to this developer that its previous proposals had too much density for this neighbourhood."_ [Read More](./letter-004.pdf)
  
 >_"I would like the city to… Recognize that this land is a wildlife corridor and ranked 5th among all of surrey’s hub-to-hub corridors. Because of its ranking, the City should place a high priority on protecting it from development."_ [Read More](./letter-005.pdf)
  
 >_"As the City Council considers all the issues and the negative impacts this proposed development will have on the Rosemary Heights area, we, and the community, remain hopeful that Council will act appropriately, and within the wishes of its constituents in this area, and deny the application."_ [Read More](./letter-006.pdf)
+
+
  
+****************************
 We are urging the community to strongly voice your concerns by contacting the City (including the Mayor and Council), Porte Developments and their PR firm Brook Pooni.   We ask that you also copy the RHCA on all correspondence so we can gather important statistics that we can use to support our opposition.
 
 Your opposition emails can be sent to (copy and paste):
