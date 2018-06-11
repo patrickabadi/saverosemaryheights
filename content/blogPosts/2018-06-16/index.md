@@ -40,7 +40,7 @@ To whom it may concern,
 
 I am writing you today as a resident of the Rosemary Heights area, and would like to strongly voice my disagreement on the proposed development at 3690 and 3660 – 152 Street, which is the former Rosemary Heights Retreat Centre lands.  The city’s infrastructure cannot support a housing development of this size and Porte, the developer, has done nothing to attempt to alleviate any of these problems.  The major issues of concern are traffic, overcrowded schools, parking, and environmental (lack of parks, tree removal).  Recently Porte representatives went door-to-door and distributed a flyer outlining a new updated proposal.  I feel that this proposal is even worse than their previous proposal and does not address any of the community's concerns.  I would like to point you to the following article written by the Rosemary Heights Community Association which accurately explains why this proposal is not in keeping with our community:
 
-https://saverosemaryheights.netlify.com/portes-flyer-vs-the-facts
+[https://saverosemaryheights.netlify.com/portes-flyer-vs-the-facts](./portes-flyer-vs-the-facts)
 
 Thank you.
 ****************************
