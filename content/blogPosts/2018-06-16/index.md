@@ -16,6 +16,8 @@ We wanted to share with you some of those emails:
 
 >_"Porte has not taken into account the feedback from the community, and instead has proposed this trojan horse by adding a school that is all but private to a small sub-portion of the land, and simultaneously increasing the density of the proposal."_
  [Read More](./letter-001.pdf)
+
+ >_"The addition of increased density is insulting to the residents of the neighbourhood, as we have always given feedback to this developer that its previous proposals had too much density for this neighbourhood."_[Read More](./letter-004.pdf)
  
 >_"I would like the city to… Recognize that this land is a wildlife corridor and ranked 5th among all of surrey’s hub-to-hub corridors. Because of its ranking, the City should place a high priority on protecting it from development."_ [Read More](./letter-005.pdf)
  
