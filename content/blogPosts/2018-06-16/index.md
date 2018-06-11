@@ -17,7 +17,9 @@ We wanted to share with you some of those emails:
 >_"Porte has not taken into account the feedback from the community, and instead has proposed this trojan horse by adding a school that is all but private to a small sub-portion of the land, and simultaneously increasing the density of the proposal."_
   [Read More](letter-001.pdf)
 
- >_"I am in contact of the immigrants families (majority speaks Chinese) in the neighbourhood and even though they are slower in response to the developer proposals, the consensus is they will be strongly opposing the development comes to public hearing."_ [Read More](letter-003.pdf)
+>_"We find ourselves extremely lucky to have the home in the neighborhood that we do. However, this project as proposed does not strike a balance between maintaining the feel of the current neighborhood residents in conjunction with addressing the ever important housing challenges." [Read More](letter-002.pdf)
+
+ >_"I am in contact of the immigrants families (majority speaks Chinese) in the neighbourhood and even though they are slower in response to the developer proposals, the consensus is they will be strongly opposing the development comes to public hearing."_  [Read More](letter-003.pdf)
 
  >_"The addition of increased density is insulting to the residents of the neighbourhood, as we have always given feedback to this developer that its previous proposals had too much density for this neighbourhood."_ [Read More](letter-004.pdf)
  
