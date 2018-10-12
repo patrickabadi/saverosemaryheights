@@ -1,7 +1,7 @@
 ---
 title: "Traffic Concerns"
 cover: "065.png"
-date: "02/01/2018"
+date: "2018/01/02"
 category: "traffic"
 tags:
     - surrey

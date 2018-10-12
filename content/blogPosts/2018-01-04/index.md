@@ -1,7 +1,7 @@
 ---
 title: "School Concerns"
 cover: "school.png"
-date: "04/01/2018"
+date: "2018/01/04"
 category: "School"
 tags:
     - surrey

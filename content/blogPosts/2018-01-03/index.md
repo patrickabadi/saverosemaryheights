@@ -1,7 +1,7 @@
 ---
 title: "Neighbourhood Concept Plan"
 cover: "ncp.png"
-date: "03/01/2018"
+date: "2018/01/03"
 category: "NCP"
 tags:
     - surrey

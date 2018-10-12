@@ -1,7 +1,7 @@
 ---
 title: "Porte's Flyer vs. The Facts"
 cover: "port-revised.png"
-date: "15/05/2018"
+date: "2018/05/15"
 category: "Porte"
 tags:
     - surrey

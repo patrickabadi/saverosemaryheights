@@ -1,7 +1,7 @@
 ---
 title: "Community Feedback"
 cover: "IMG_6897.png"
-date: "10/06/2018"
+date: "2018/06/10"
 category: "Porte"
 tags:
     - surrey
