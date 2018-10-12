@@ -84,7 +84,7 @@ Cassells said, in part, that the ecological arguments presented by the Rosemary 
 
 Elected or not I will use all means at my disposal to stop this project going through.
 
-[Click here](rosly-cassells.pdf) to see Cassells full statement to the Rosemary Heights Community Association.
+[Click here](roslyn-cassells.pdf) to see Cassells full statement to the Rosemary Heights Community Association.
 
 ****************************
 **Bruce Hayne, Mayoral Candidate, Surrey Integrity Now**
