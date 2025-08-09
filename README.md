@@ -1,180 +1,242 @@
-[![Code Climate](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/gpa.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
-[![Issue Count](https://codeclimate.com/github/Vagr9K/gatsby-material-starter/badges/issue_count.svg)](https://codeclimate.com/github/Vagr9K/gatsby-material-starter)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/990fb54ea8094f2aa0ed77f14e859820)](https://www.codacy.com/app/Vagr9K/gatsby-material-starter?utm_source=github.com&utm_medium=referral&utm_content=Vagr9K/gatsby-material-starter&utm_campaign=Badge_Grade)
+# Save Rosemary Heights - Community Blog
 
-<div align="center">
-    <img src="docs/logo.png" alt="Logo" width='200px' height='200px'/>
-</div>
+A professional, SEO-optimized blog site built with Next.js 15, TypeScript, and TailwindCSS, dedicated to the Rosemary Heights community.
 
-# Gatsby Material Starter
+## 🌟 Features
 
-A blog starter with Material design in mind for [Gatsby](https://github.com/gatsbyjs/gatsby/).
+- **Full SSR (Server-Side Rendering)** - Optimal SEO and performance
+- **Professional Design** - Nature-inspired color scheme with smooth animations
+- **TypeScript** - Type-safe development
+- **TailwindCSS** - Modern, responsive styling
+- **SEO Optimized** - Meta tags, robots.txt, and sitemap.xml
+- **Blog-ready** - Structured for markdown content with contentlayer2
+- **Responsive** - Mobile-first design
+- **Dark Mode** - Theme switching capability
+- **Performance Optimized** - Optimized images and fonts
 
-[Demo website.](https://vagr9k.github.io/gatsby-material-starter/)
+## 🚀 Tech Stack
 
-![Screenshot](docs/screenshot.png)
+- **Framework**: Next.js 15 (App Router)
+- **Language**: TypeScript
+- **Styling**: TailwindCSS
+- **Content**: Contentlayer2 (for markdown)
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Font**: Inter & Poppins (Google Fonts)
 
-## GatsbyJS V1
+## 📁 Project Structure
 
-This starter is based on GatsbyJS V1, which brings progressive web app features such as automatic code and data splitting (by route), prefetching, with service worker/offline-first support and PRPL pattern.
+```
+src/
+├── app/                  # Next.js App Router pages
+│   ├── blog/            # Blog pages
+│   ├── about/           # About page
+│   ├── contact/         # Contact page
+│   ├── layout.tsx       # Root layout with SEO
+│   ├── page.tsx         # Homepage
+│   ├── robots.ts        # SEO robots.txt
+│   └── sitemap.ts       # SEO sitemap
+├── components/          # Reusable React components
+│   ├── ui/             # Base UI components
+│   ├── hero.tsx        # Homepage hero section
+│   ├── navbar.tsx      # Navigation
+│   ├── footer.tsx      # Footer
+│   └── ...             # Other components
+└── lib/                # Utility functions
 
-More information in the [announcement](https://www.gatsbyjs.org/blog/gatsby-first-beta-release/).
-
-## Features
-
-* Blazing fast loading times thanks to pre-rendered HTML and automatic chunk loading of JS files
-* [React-MD](https://github.com/mlaursen/react-md) for Material design
-  * Integrated FontAwesome support
-  * Integrated Material Icons support
-* SASS/SCSS styling
-* Separate components for everything
-* High configurability:
-  * User information
-  * User social profiles
-  * Copyright information
-  * More!
-* Author segment
-  * Name
-  * Location
-  * Description
-  * Links
-  * Follow Me button
-* Posts in Markdown
-  * Code syntax highlighting
-  * Embedded YouTube videos
-  * Embedded Tweets
-* Tags
-  * Seprate page for posts under each tag
-* Categories
-  * Separate page for posts under each category
-* Suggested posts segment
-* Disqus support
-  * Notifications about new disqus comments
-* Google Analytics support
-* Responsive design
-  * On mobile, Disqus is loaded only after expanding comments for better performance
-* Social features
-  * Twitter tweet button
-  * Facebook share/share count
-  * Reddit share/share count
-  * Google+ share button
-  * LinkedIn share button
-  * Telegram share button
-* SEO
-  * Sitemap generation
-  * robots.txt
-  * General description tags
-  * Schema.org JSONLD (Google Rich Snippets)
-  * OpenGraph Tags (Facebook/Google+/Pinterest)
-  * Twitter Tags (Twitter Cards)
-* RSS feeds
-* Loading progress for slow networks
-* Offline support
-* Web App Manifest support
-* Development tools
-  * ESLint for linting
-  * Prettier for code style
-  * Remark-Lint for linting Markdown
-  * write-good for linting English prose
-  * gh-pages for deploying to GitHub pages
-  * CodeClimate configuration file and badge
-
-NOTE: Take a look at [gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) if you prefer building UI from scratch and/or only interested in fundamental features.
-
-You can also visit [my personal blog](https://vagr9k.me) if you want to see a fully implemented blog based on this starter.
-
-![Article Screenshot](docs/screenshot-article.png)
-![Mobile Screenshot](docs/screenshot-mobile.png)
-
-## Getting Started
-
-Install this starter (assuming [Gatsby](https://github.com/gatsbyjs/gatsby/) is installed and updated) by running from your CLI:
-
-```sh
-gatsby new YourProjectName https://github.com/Vagr9K/gatsby-material-starter
-npm install # or yarn install
-npm run develop # or gatsby develop
+content/
+└── blog/               # Markdown blog posts
+    ├── community-gardens-growing-together.md
+    ├── preserving-heritage-trees.md
+    └── upcoming-community-meeting.md
 ```
 
-Or you can fork the project, make your changes there and merge new features when needed.
+## 🎨 Design System
 
-Alternatively:
+### Color Palette
+- **Primary**: Professional forest green (#359a5a)
+- **Secondary**: Warm earth tone (#dc7633)
+- **Accent**: Professional blue (#0c8ce9)
+- **Grays**: Modern neutral scale
 
-```sh
-git clone https://github.com/Vagr9K/gatsby-material-starter YourProjectName # Clone the project
-cd YourProjectname
-rm -rf .git # So you can have your own changes stored in VCS.
-npm install # or yarn install
-npm run develop # or gatsby develop
+### Typography
+- **Display Font**: Poppins (headings)
+- **Body Font**: Inter (content)
+
+### Animations
+- Smooth page transitions
+- Hover effects
+- Loading animations
+- Scroll-triggered animations
+
+## 🚦 Getting Started
+
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
+
+1. **Clone and navigate to the project**:
+   ```bash
+   cd c:\Dev\ironvision\saverosemaryheights-workspace\srh-site
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser**:
+   ```
+   http://localhost:3000
+   ```
+
+### Available Scripts
+
+- `npm run dev` - Start development server with Turbopack
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+- `npm run type-check` - TypeScript type checking
+
+## 📝 Content Management
+
+### Adding Blog Posts
+
+1. Create a new `.md` file in `content/blog/`
+2. Add frontmatter with required fields:
+
+```markdown
+---
+title: "Your Post Title"
+date: 2024-08-07
+description: "SEO description"
+author: "Author Name"
+category: "Category"
+tags: ["tag1", "tag2"]
+featured: false
+published: true
+---
+
+# Your Content Here
 ```
 
-## Configuration
+### Required Frontmatter Fields
+- `title` - Post title
+- `date` - Publication date
+- `description` - SEO description
+- `published` - true/false
 
-Edit the export object in `data/SiteConfig`:
+### Optional Fields
+- `excerpt` - Short excerpt
+- `keywords` - SEO keywords array
+- `coverImage` - Featured image URL
+- `author` - Author name (defaults to "Save Rosemary Heights")
+- `category` - Post category
+- `tags` - Tags array
+- `readingTime` - Reading time in minutes
+- `featured` - Featured post flag
+- `relatedTopics` - Related topics array
 
-```js
-module.exports = {
-  blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  siteTitle: "Gatsby Material Starter", // Site title.
-  siteTitleAlt: "GatsbyJS Material Starter", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://vagr9k.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  siteDescription: "A GatsbyJS stater with Material design in mind.", // Website description used for RSS feeds/meta description tag.
-  siteRss: "/rss.xml", // Path to the RSS file.
-  siteFBAppID: "1825356251115265", // FB Application ID for using app insights
-  siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
-  disqusShortname: "https-vagr9k-github-io-gatsby-material-starter", // Disqus shortname.
-  postDefaultCategoryID: "Tech", // Default category for posts.
-  userName: "Material User", // Username to display in the author segment.
-  userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
-  userLocation: "North Pole, Earth", // User location to display in the author segment.
-  userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
-  userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
-  // Links to social profiles/projects you want to display in the author segment/navigation bar.
-  userLinks: [
-    {
-      label: "GitHub",
-      url: "https://github.com/Vagr9K/gatsby-material-starter",
-      iconClassName: "fa fa-github"
-    },
-    {
-      label: "Twitter",
-      url: "https://twitter.com/Vagr9K",
-      iconClassName: "fa fa-twitter"
-    },
-    {
-      label: "Email",
-      url: "mailto:vagr9k@gmail.com",
-      iconClassName: "fa fa-envelope"
-    }
-  ],
-  copyright: "Copyright © 2017. Material User" // Copyright string for the footer of the website and RSS feed.
-};
+## 🔧 Configuration
+
+### Environment Variables
+
+Create `.env.local`:
+```env
+NEXT_PUBLIC_SITE_URL=https://saverosemaryheights.com
+SITE_URL=https://saverosemaryheights.com
 ```
 
-You can also optionally set `pathPrefix`:
+### SEO Configuration
 
-```js
-module.exports = {
-  // Note: it must *not* have a trailing slash.
-  pathPrefix: "/gatsby-material-starter" // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-};
+The site includes comprehensive SEO:
+- **Meta tags** - Open Graph, Twitter Cards
+- **Robots.txt** - Generated automatically
+- **Sitemap.xml** - Auto-generated from content
+- **Structured data** - JSON-LD for blog posts
+
+## 🚀 Deployment
+
+### Build for Production
+```bash
+npm run build
 ```
 
-NOTE: `user*`, `disqusShortname` and `copyright` are optional and won't render if omitted.
+This will:
+1. Build the Next.js application
+2. Generate static pages
+3. Create robots.txt and sitemap.xml
+4. Optimize assets
 
-WARNING: Make sure to edit `static/robots.txt` to include your domain for the sitemap!
+### Deployment Platforms
+- **Vercel** (recommended for Next.js)
+- **Netlify**
+- **Any static hosting service**
 
-## Theming
+## 📱 Responsive Design
 
-Edit `src/layouts/theme.scss` to suit your needs.
-You can use [Material color palette](https://react-md.mlaursen.com/customization/colors) provided by React-MD.
+The site is fully responsive with breakpoints:
+- **Mobile**: < 768px
+- **Tablet**: 768px - 1024px  
+- **Desktop**: > 1024px
 
-```css
-@import "~react-md/src/scss/react-md";
-$md-primary-color: $md-grey-400;
-$md-secondary-color: $md-red-800;
-$md-tertiary-color: $md-grey-300;
-```
+## ♿ Accessibility
+
+- Semantic HTML structure
+- ARIA labels and roles
+- Keyboard navigation support
+- Screen reader friendly
+- High contrast ratios
+- Focus indicators
+
+## 🎭 Customization
+
+### Colors
+Edit `tailwind.config.js` to customize the color palette.
+
+### Fonts
+Modify font imports in `src/app/layout.tsx`.
+
+### Components
+All components are modular and easily customizable.
+
+## 🐛 Known Issues
+
+- Contentlayer2 has some Windows compatibility issues (warnings during build)
+- Currently using fallback content until contentlayer is fully configured
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## 📄 License
+
+This project is created for the Save Rosemary Heights community.
+
+## 📞 Support
+
+For questions or support:
+- Email: info@saverosemaryheights.com
+- Community meetings: First Saturday of every month
+
+## 🙏 Acknowledgments
+
+- Community members who provided input
+- Open source libraries and tools
+- Next.js and React teams
+- TailwindCSS team
+
+---
+
+**Built with ❤️ for the Rosemary Heights community**
