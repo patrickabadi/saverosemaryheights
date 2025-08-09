@@ -9,7 +9,7 @@ export function Hero() {
       {/* Banner Image Section */}
       <div className="relative h-96 w-full overflow-hidden">
         <Image
-          src="/school.webp"
+          src="/school.png"
           alt="Rosemary Heights School"
           fill
           className="object-cover"
