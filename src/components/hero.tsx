@@ -1,19 +1,16 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import Image from 'next/image'
 
 export function Hero() {
   return (
     <section className="relative">
       {/* Banner Image Section */}
       <div className="relative h-96 w-full overflow-hidden">
-        <Image
-          src="/school.png"
+        <img
+          src="/school.webp"
           alt="Rosemary Heights School"
-          fill
-          className="object-cover"
-          priority
+          className="absolute inset-0 w-full h-full object-cover"
         />
         {/* Dark overlay for better text readability */}
         <div className="absolute inset-0 bg-black/40"></div>
