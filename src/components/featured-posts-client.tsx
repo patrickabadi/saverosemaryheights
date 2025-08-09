@@ -6,48 +6,17 @@ import { formatDate } from '@/lib/utils'
 import { motion } from 'framer-motion'
 import { ArrowRight, Clock, Star, User } from 'lucide-react'
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
 
 interface FeaturedPostsClientProps {
   posts: BlogPost[]
 }
 
 export function FeaturedPostsClient({ posts }: FeaturedPostsClientProps) {
-  const [mounted, setMounted] = useState(false)
-
-  useEffect(() => {
-    setMounted(true)
-  }, [])
-
-  if (!mounted) {
-    return (
-      <section className="py-20 bg-gray-50 dark:bg-gray-800">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <div className="inline-flex items-center space-x-2 bg-primary-100 dark:bg-primary-900 text-primary-700 dark:text-primary-300 px-4 py-2 rounded-full text-sm font-medium mb-4">
-              <Star className="w-4 h-4" />
-              <span>Featured Stories</span>
-            </div>
-            
-            <h2 className="text-3xl md:text-4xl font-bold font-display text-gray-900 dark:text-white mb-4">
-              Community Highlights
-            </h2>
-            <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-              Discover the latest stories, initiatives, and achievements from our Rosemary Heights community
-            </p>
-          </div>
-          <div className="text-center py-12">
-            <div className="animate-pulse">Loading featured posts...</div>
-          </div>
-        </div>
-      </section>
-    )
-  }
   return (
     <section className="py-20 bg-gray-50 dark:bg-gray-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 1, y: 0 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
           viewport={{ once: true }}
@@ -76,7 +45,7 @@ export function FeaturedPostsClient({ posts }: FeaturedPostsClientProps) {
             {posts.map((post, index) => (
               <motion.article
                 key={post.slug}
-                initial={{ opacity: 0, y: 20 }}
+                initial={{ opacity: 1, y: 0 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
                 viewport={{ once: true }}
@@ -141,7 +110,7 @@ export function FeaturedPostsClient({ posts }: FeaturedPostsClientProps) {
 
         {/* View All Posts Button - Always visible */}
         <motion.div
-          initial={{ opacity: 0, y: 20 }}
+          initial={{ opacity: 1, y: 0 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.4 }}
           viewport={{ once: true }}
