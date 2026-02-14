@@ -5,11 +5,6 @@
 [build.environment]
   NODE_VERSION = "18"
 
-# Handle Next.js routing for SPA behavior
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
 
 # Security headers
 [[headers]]

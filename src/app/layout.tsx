@@ -159,7 +159,7 @@ export default function RootLayout({
         />
       </head>
       <body className={`${inter.variable} ${poppins.variable} font-sans antialiased`}>
-        <ThemeProvider attribute="data-theme" defaultTheme="light" enableSystem>
+        <ThemeProvider attribute="data-theme" defaultTheme="light" enableSystem={false}>
           <div className="flex min-h-screen flex-col">
             <Navbar />
             <main className="flex-1">
