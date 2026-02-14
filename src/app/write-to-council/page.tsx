@@ -3,7 +3,7 @@
 import { generateEmail } from '@/app/actions/generate-email'
 import { ArrowLeft, ArrowRight, CheckCircle2, Copy, Loader2, Mail, Send, Sparkles, TreePine, Users } from 'lucide-react'
 import Link from 'next/link'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 
 const concerns = [
   { id: 'planning', label: 'NCP Violation', desc: 'The 1996 Neighbourhood Concept Plan designates this land as Institutional/Parkland — not residential. Polygon purchased the land knowing this zoning.', icon: '📋' },
@@ -31,6 +31,9 @@ export default function WriteToCouncilPage() {
     concerns: [] as string[]
   })
 
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }, [step])
   const handleConcernToggle = (id: string) => {
     setFormData(prev => ({
       ...prev,
