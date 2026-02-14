@@ -219,7 +219,9 @@ export default function WriteToCouncilPage() {
                 </label>
                 <input
                   id="wiz-name"
+                  name="name"
                   type="text"
+                  autoComplete="name"
                   placeholder="e.g. Jane Smith"
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
@@ -232,7 +234,9 @@ export default function WriteToCouncilPage() {
                 </label>
                 <input
                   id="wiz-address"
+                  name="street-address"
                   type="text"
+                  autoComplete="street-address"
                   placeholder="e.g. 1234 Rosemary Drive, Surrey, BC"
                   value={formData.address}
                   onChange={(e) => setFormData({ ...formData, address: e.target.value })}
