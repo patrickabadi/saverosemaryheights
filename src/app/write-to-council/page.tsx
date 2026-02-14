@@ -91,11 +91,6 @@ export default function WriteToCouncilPage() {
     window.location.href = `mailto:${to}?subject=${subject}&body=${body}`
   }
 
-  const canProceed = () => {
-    if (step === 1) return true // details are optional
-    if (step === 2) return formData.concerns.length > 0
-    return true
-  }
 
   const totalSteps = 4
   const stepLabels = ['Introduction', 'Your Details', 'Concerns', 'Your Letter']

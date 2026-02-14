@@ -136,7 +136,7 @@ export default function RootLayout({
     email: 'saverosemaryheights@gmail.com',
     sameAs: [
       'https://www.facebook.com/SaveRosemaryHeights/',
-      'https://signup.saverosemaryheights.com/'
+      'https://mailchi.mp/18b87d6bba01/save-rosemary-heights'
     ],
     address: {
       '@type': 'PostalAddress',

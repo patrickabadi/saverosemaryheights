@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { TreePine, Users, FileText, Heart } from 'lucide-react'
+import { FileText, Heart, TreePine, Users } from 'lucide-react'
 
 const stats = [
   {
@@ -49,7 +49,7 @@ export function CommunityStats() {
             Our Community Impact
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-            Together, we're making a difference in preserving and protecting Rosemary Heights
+            Together, we&apos;re making a difference in preserving and protecting Rosemary Heights
           </p>
         </motion.div>
 

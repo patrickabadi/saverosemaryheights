@@ -13,7 +13,7 @@ export function Footer() {
     social: [
       { name: 'Facebook', href: 'https://www.facebook.com/SaveRosemaryHeights/', icon: Facebook },
       { name: 'Email', href: 'mailto:saverosemaryheights@gmail.com', icon: Mail },
-      { name: 'Signup', href: 'https://signup.saverosemaryheights.com/', icon: UserPlus },
+      { name: 'Signup', href: 'https://mailchi.mp/18b87d6bba01/save-rosemary-heights', icon: UserPlus },
     ],
   }
 

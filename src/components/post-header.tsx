@@ -90,6 +90,7 @@ export function PostHeader({ post }: PostHeaderProps) {
           className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 mt-12"
         >
           <div className="relative aspect-video w-full overflow-hidden rounded-2xl shadow-2xl">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={post.coverImage}
               alt={post.title}

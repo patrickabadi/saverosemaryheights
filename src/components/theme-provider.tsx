@@ -29,6 +29,7 @@ export function ThemeProvider({
   attribute = 'data-theme',
   defaultTheme = 'system',
   enableSystem = true,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   disableTransitionOnChange = false,
   ...props
 }: ThemeProviderProps) {

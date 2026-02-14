@@ -1,5 +1,5 @@
-import { Metadata } from 'next'
 import { PageHeader } from '@/components/page-header'
+import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'About Us - Save Rosemary Heights',
@@ -19,7 +19,7 @@ export default function AboutPage() {
         <div className="prose prose-lg dark:prose-dark max-w-none">
           <h2>Our Mission</h2>
           <p>
-            Save Rosemary Heights is a grassroots community organization founded by residents who believe in the power of collective action to preserve and enhance our neighborhood's unique character, natural beauty, and strong sense of community.
+            Save Rosemary Heights is a grassroots community organization founded by residents who believe in the power of collective action to preserve and enhance our neighborhood&apos;s unique character, natural beauty, and strong sense of community.
           </p>
 
           <h2>What We Do</h2>
@@ -34,14 +34,14 @@ export default function AboutPage() {
           <ul>
             <li><strong>Community First</strong>: Every decision is made with the best interests of our neighborhood in mind.</li>
             <li><strong>Transparency</strong>: We believe in open communication and inclusive decision-making.</li>
-            <li><strong>Sustainability</strong>: We're committed to environmental stewardship for future generations.</li>
+            <li><strong>Sustainability</strong>: We&apos;re committed to environmental stewardship for future generations.</li>
             <li><strong>Respect</strong>: We value diverse perspectives and treat all community members with dignity.</li>
             <li><strong>Action</strong>: We turn concerns into concrete solutions through organized effort.</li>
           </ul>
 
           <h2>Get Involved</h2>
           <p>
-            There are many ways to contribute to our community's success. Whether you have five minutes or five hours to spare, there's a place for you in our organization.
+            There are many ways to contribute to our community&apos;s success. Whether you have five minutes or five hours to spare, there&apos;s a place for you in our organization.
           </p>
 
           <p>

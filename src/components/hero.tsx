@@ -7,6 +7,7 @@ export function Hero() {
     <section className="relative">
       {/* Banner Image Section */}
       <div className="relative h-96 w-full overflow-hidden">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
           src="/school.webp"
           alt="Rosemary Heights School"

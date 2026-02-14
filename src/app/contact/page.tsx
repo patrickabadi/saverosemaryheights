@@ -75,7 +75,7 @@ export default function ContactPage() {
 
             {/* Signup */}
             <a
-              href="https://signup.saverosemaryheights.com/"
+              href="https://mailchi.mp/18b87d6bba01/save-rosemary-heights"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-4 p-4 border border-gray-200 dark:border-gray-700 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"

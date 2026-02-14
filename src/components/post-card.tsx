@@ -27,6 +27,7 @@ export function PostCard({ post, featured = false }: PostCardProps) {
       {/* Image */}
       <div className={`${featured ? 'h-56' : 'h-48'} bg-gradient-to-br from-primary-100 to-secondary-100 dark:from-primary-900 dark:to-secondary-900 relative overflow-hidden`}>
         {post.coverImage ? (
+          // eslint-disable-next-line @next/next/no-img-element
           <img
             src={post.coverImage}
             alt={post.title}
